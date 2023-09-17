@@ -40,3 +40,7 @@
 ### 画面遷移図
 * Figma URL
 https://www.figma.com/file/KTj5KgljRaYYp6X8TySFFM/%E3%82%A2%E3%83%97%E3%83%AA?type=design&node-id=0%3A1&mode=design&t=5X0eEsHighwPxhzB-1
+
+### ER図
+* Entity Relationship Diagram
+https://i.gyazo.com/50722f5697c789b87696ef2330ecda63.png
