@@ -43,4 +43,4 @@ https://www.figma.com/file/KTj5KgljRaYYp6X8TySFFM/%E3%82%A2%E3%83%97%E3%83%AA?ty
 
 ### ER図
 * Entity Relationship Diagram
-https://i.gyazo.com/a62a3f52f9f214105ba997f4ae340605.png
+https://i.gyazo.com/38ca49f173936ab0584715148039f29d.png
