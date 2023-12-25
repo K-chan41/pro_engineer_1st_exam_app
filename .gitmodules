@@ -1,0 +1,6 @@
+[submodule "front_end"]
+	path = front_end
+	url = https://github.com/K-chan41/pro_engineer_1st_exam_app_front_end
+[submodule "api"]
+	path = api
+	url = https://github.com/K-chan41/pro_engineer_1st_exam_app_api
