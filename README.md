@@ -36,3 +36,11 @@
 * 出題数を指定する機能（全ユーザー）
 * 出題分野を指定する機能（全ユーザー）
 * 簡単な掲示板、閲覧機能（全ユーザー）、掲示板投稿（登録ユーザーのみ）
+
+### 画面遷移図
+* Figma URL
+https://www.figma.com/file/KTj5KgljRaYYp6X8TySFFM/%E3%82%A2%E3%83%97%E3%83%AA?type=design&node-id=0%3A1&mode=design&t=5X0eEsHighwPxhzB-1
+
+### ER図
+* Entity Relationship Diagram
+https://i.gyazo.com/4c63fee5de645143c059de78260f84b3.png
