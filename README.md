@@ -1,7 +1,7 @@
 # 技術士1次試験 基礎科目・適性科目 過去問ドリル
 アプリ名： [技術士1次試験 基礎•適性科目 過去問ドリル](https://www.proengineer1exam.com/)
 
-![opengraph-image.png](https://www.proengineer1exam.com/opengraph-image.png)
+![opengraph-image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3332611/244503e0-b7fa-9e5a-2158-39fd98eae937.png)
 
 サービス URL： [https://www.proengineer1exam.com](https://www.proengineer1exam.com/)
 
